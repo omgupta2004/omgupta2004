@@ -4,9 +4,7 @@
   <b>Software Developer</b> | <b>Data Analyst</b> | <b>Tech Builder</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omgupta2004&style=flat-square&color=blue" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-gupta-600143291/"><img src="https://img.shields.io/badge/Om%20Gupta-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
