@@ -69,9 +69,11 @@ Designed relational databases, optimized queries, automated grading workflows, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgupta2004&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta2004&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omgupta2004&show_icons=true&hide_border=true&theme=github_dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta2004&layout=compact&hide_border=true&theme=github_dark" />
 </p>
+
 
 ---
 
