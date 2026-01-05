@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Om Gupta 👋</h1>
 
 <p align="center">
-  <b>AI Engineer | Data Scientist | Software Developer</b><br/>
-  Building intelligent systems with LLMs, RAG, Data & Real-World Impact
+  <b>Data Analytics & ML Engineer | LLM & RAG Systems Builder</b><br/>
+  Turning data and AI into intelligent real-world products
 </p>
 
 <p align="center">
@@ -21,30 +21,30 @@
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate focused on building **AI-powered products**, working at the intersection of  
-**Machine Learning, LLMs, RAG, Data Engineering, and Full-Stack Systems**.
+Computer Science undergraduate specializing in **Data Analytics, Machine Learning, and AI Systems**, with hands-on experience in building **LLM- and RAG-powered applications**, scalable data pipelines, and real-time analytical platforms.
 
-I enjoy designing scalable pipelines, intelligent assistants, and real-world data solutions that solve meaningful problems.
+🎓 **B.Tech CSE (2022–2026)** — Guru Gobind Singh Indraprastha University  
+🏢 **Experience:** CRIS · CityAI · 4C Plus
 
 ---
 
 ## 🧠 Core Expertise
 
-- **AI & ML:** Machine Learning, LLMs, RAG, NLP, Computer Vision  
-- **Data & Analytics:** SQL, PostgreSQL, Power BI, Advanced Excel, DAX, ETL  
+- **AI & ML:** Machine Learning, LLMs, RAG, NLP, Feature Engineering, LangChain  
+- **Data & Analytics:** SQL, PostgreSQL, Power BI, Advanced Excel, DAX, Power Query  
 - **Backend & Systems:** Python, FastAPI, REST APIs, System Design  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Streamlit
+- **Tools:** Git, Visual Studio Code
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🧠 Comic Generator — AI Video-to-Comic Platform  
-An AI system that converts lecture videos into structured comic-style learning material using **Whisper ASR**, **LLMs**, **RAG**, **FAISS**, and **diffusion-based generation**.  
+Built an end-to-end AI system converting lecture videos into structured comic-style learning using **Whisper ASR**, **LLMs**, **RAG**, **FAISS**, and **diffusion models**, with offline, privacy-focused processing.  
 👉 https://github.com/omgupta2004/comic_generator
 
 ### 🚦 Railway Analytics Platform (CRIS Internship)  
-Built Python–SQL pipelines, ML models for delay prediction, anomaly detection, and KPI dashboards for large-scale railway data.
+Built Python–SQL pipelines, ML models for delay prediction and anomaly detection, and KPI dashboards for large-scale railway data.
 
 ### 🏫 University Management System  
 Designed relational databases, optimized queries, automated grading workflows, and performance analytics using PostgreSQL.
@@ -61,7 +61,6 @@ Designed relational databases, optimized queries, automated grading workflows, a
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
